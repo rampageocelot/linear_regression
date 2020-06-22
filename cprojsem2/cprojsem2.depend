@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586595619 source:c:\users\shrikanth\desktop\proj\cprojsem2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
